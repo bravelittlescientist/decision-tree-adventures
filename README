@@ -1,1 +1,12 @@
 Welcome to my Decision Tree pet project! Classification algorithms involving decision trees are something I find quite interesting and fun, so I want to keep track of my various implementations.
+
+Currently, I have included my ID3 Decision Tree and Random Forest implementations. I still have some refactoring I hope to do on these in the future, in particular writing some tasty tests. 
+
+Basic building/running instructions:
+
+javac *.java
+java DecisionTreeContainer
+java RandomForestRunner
+
+Also included is the SPECT Heart Dataset textfile from UCI Machine Learning Repository:
+http://archive.ics.uci.edu/ml/datasets/SPECT+Heart
